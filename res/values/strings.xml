@@ -2,7 +2,7 @@
 <resources>
 
     <!--About-->
-    <string name="label">S2E: app2sd for CyanogenMod7</string>
+    <string name="label">S2E: app2sd para CyanogenMod7</string>
     <string name="about">About</string>
     <string name="credits">Credits</string>
     <string name="credit__summary">Many thanks to CrazyCoder for his support and patience (and class \"ShellInterface\")</string>
